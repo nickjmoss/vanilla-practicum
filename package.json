@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "server": "json-server db.json --routes routes.json"
+  },
+  "devDependencies": {
+    "json-server": "0.17.0"
+  }
+}

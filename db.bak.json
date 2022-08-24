@@ -1,0 +1,60 @@
+{
+  "logs": [
+    {
+      "courseId": "cs4660",
+      "uvuId": "10111111",
+      "date": "1/23/2021 1:23:36 PM",
+      "text": "Initial comment. Hello World",
+      "id": "8saD4s6"
+    },
+    {
+      "courseId": "cs4660",
+      "uvuId": "10111111",
+      "date": "1/24/2021 2:43:12 PM",
+      "text": "MongoDB is looking really good, still need to get atlas up and running.",
+      "id": "6F3QamJ"
+    },
+    {
+      "courseId": "cs4660",
+      "uvuId": "10222222",
+      "date": "1/27/2021 5:58:10 PM",
+      "text": "Atlas is up and running",
+      "id": "AzL00pn"
+    },
+    {
+      "courseId": "cs3380",
+      "uvuId": "10333333",
+      "date": "1/28/2021 3:53:52 PM",
+      "text": "Learned about clusters\n\nStill trying to wrap my mind around the concept",
+      "id": "1BBXmsH"
+    },
+    {
+      "courseId": "cs4660",
+      "uvuId": "10222222",
+      "date": "1/8/2022, 7:41:28 PM",
+      "text": "Hopefully we get better at testing when we start working on Cypress",
+      "id": "3A0rSmx"
+    },
+    {
+      "courseId": "cs4660",
+      "uvuId": "10111111",
+      "date": "1/10/2022, 7:27:40 PM",
+      "text": "Initial jquery practicum works.",
+      "id": "LMH7POH"
+    }
+  ],
+  "courses": [
+    {
+      "id": "cs3380",
+      "display": "CS 3380"
+    },
+    {
+      "id": "cs4660",
+      "display": "CS 4660"
+    },
+    {
+      "id": "cs4690",
+      "display": "CS 4690"
+    }
+  ]
+}
